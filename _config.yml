@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: QCoDeS
+description: Python-based data acquisition framework by the Copenhagen / Delft
+  / Sydney / Microsoft quantum computing consortium.
+github:
+  is_project_page: false

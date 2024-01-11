@@ -10,4 +10,4 @@ defaults:
       path: 'Qcodes'
     values:
       layout: 'redirect'
-new_domain: 'http://microsoft.github.io/Qcodes'
+new_domain: 'http://microsoft.github.io'

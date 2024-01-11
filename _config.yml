@@ -4,3 +4,10 @@ description: Python-based data acquisition framework by the Copenhagen / Delft
   / Sydney / Microsoft quantum computing consortium.
 github:
   is_project_page: false
+defaults:
+  -
+    scope:
+      path: 'Qcodes'
+    values:
+      layout: 'redirect'
+new_domain: 'http://microsoft.github.io/Qcodes'
